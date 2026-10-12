@@ -1,0 +1,3 @@
+# Type declarations the Claude Code engine writes when it loads the mod
+.claude-plugin/types/
+node_modules/

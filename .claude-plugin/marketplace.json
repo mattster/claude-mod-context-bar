@@ -1,0 +1,5 @@
+{
+  "name": "claude-mod-context-bar",
+  "owner": { "name": "mattster" },
+  "plugins": [{ "name": "context-bar", "source": "./" }]
+}
